@@ -10,10 +10,10 @@
 <nav>
 <table cellspacing="6" cellpadding="6">
 <tr>
-<td><a href="index.html">Home</a></td>
-<td><a href="menu.html">Menu</a></td>
-<td><a href="about.html">About</a></td>
-<td><a href="contact.html">Contact</a></td>
+<td><a href="index.jsp">Home</a></td>
+<td><a href="menu.jsp">Menu</a></td>
+<td><a href="about.jsp">About</a></td>
+<td><a href="contact.jsp">Contact</a></td>
 </tr>
 </nav>
 </table>
